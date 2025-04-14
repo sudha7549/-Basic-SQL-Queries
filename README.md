@@ -24,7 +24,7 @@ These examples are written in standard SQL and are compatible with most relation
 This project is a collaborative effort by:
 
 Sudhanshu kumar
-
+Nitish Kumar
 Niranjan Kumar
 
 Both collaborators have contributed to writing, organizing, and testing the queries to ensure accuracy and educational value.
